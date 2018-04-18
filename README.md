@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523986656592&di=a36549cc32e3cbebb176f250f872f9a0&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180411%2F0030b58868ff4012b6cf9660ae320d3f.jpeg" alt="Material Render Phone">
+<img src="https://github.com/tomxin7/DouYinFaceTech/blob/master/banner.png?raw=true" alt="Material Render Phone">
 </p>
 
 <h1 align="center"><a href="http://tomxin.cn" target="_blank">Tomxin7 </a></h1>
