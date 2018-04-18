@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/tomxin7/DouYinFaceTech/blob/master/banner.png?raw=true" alt="Material Render Phone">
+<img src="https://github.com/tomxin7/DouYinFaceTech/blob/master/banner1.png?raw=true" alt="Material Render Phone">
 </p>
 
 <h1 align="center"><a href="http://tomxin.cn" target="_blank">Tomxin7 </a></h1>
