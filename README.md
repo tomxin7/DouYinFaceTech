@@ -12,11 +12,11 @@
 > 抖音是2016年9月上线的一款音乐创意短视频社交软件，是一个专注年轻人的15秒音乐短视频社区。用户可以通过这款软件选择歌曲，拍摄15秒的音乐短视频，形成自己的作品。
 
 
-![](/20180418_000727.gif)
 
-## 需求
+## 效果
 抖音经常能刷到很多高质量的视频，特别是我们使用的越多，头条的算法给我们推荐的内容越精准。**那么我们可不可以写一个小型的程序，根据自己设置的特征筛选视频并且自动点赞存入我们的收藏夹中呢？比如漂亮的小姐姐，帅气的小哥哥或者是可爱的喵星人。。。**
 
+![](https://github.com/tomxin7/DouYinFaceTech/raw/master/20180418_000727.gif)
 ## 原理说明
 
 ##### 本程序与抖音无关，主要供学习用途
@@ -44,7 +44,6 @@ adb pull /sdcard/autojump.png .
 
 ## 使用教程
 
-相关软件工具安装和使用步骤请参考 [Android 和 iOS 操作步骤](https://github.com/wangshub/wechat_jump_game/wiki/Android-%E5%92%8C-iOS-%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4)
 
 #### 获取源码
 
@@ -52,7 +51,9 @@ adb pull /sdcard/autojump.png .
 - git clone https://github.com/wangshub/wechat_jump_game.git
 
 ```
-##### 非常推荐使用Python3，避免编码及i
+#### Python版本/依赖
+
+##### Python3
 
 ## 版本说明
 
