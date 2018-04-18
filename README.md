@@ -34,7 +34,7 @@ adb pull /sdcard/autojump.png .
 
 4. 获得百度返回的数据进行判断分析
 
-5. 如果满足要求，使用ADB点击屏幕
+5. 如果满足要求，使用ADB点赞
 
 6. 上滑切换新视频 
 
@@ -48,7 +48,7 @@ adb pull /sdcard/autojump.png .
 #### 获取源码
 
 ```
-- git clone https://github.com/wangshub/wechat_jump_game.git
+- git clone https://github.com/tomxin7/DouYinFaceTech.git
 
 ```
 #### Python版本/依赖
