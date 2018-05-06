@@ -9,6 +9,15 @@ import time
 
 from GetDouYinImg import *
 
+def get_token(host):
+    header_dict = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',"Content-Type": "application/json"}
+    req = request.Request(url=host,headers=header_dict)
+    res = request.urlopen(req)
+    res = res.read()
+    res_json = json.loads(res.decode('utf-8'))
+    return res_json["access_token"]
+
+
 
 '''
 进行post请求
@@ -71,7 +80,6 @@ def faceInfoAnalysis(face_dict):
                 click_like()
                 print("好可爱ヽ(✿ﾟ▽ﾟ)ノ 已喜欢❤")
                 #点赞后休息一秒，主要为能够看到点击爱心的效果
-                time.sleep(1)
             else:
                 print("再看看(๑•̀ㅂ•́)و✧")
         else:
@@ -81,4 +89,3 @@ def faceInfoAnalysis(face_dict):
     #上滑新视频
     switch_video()
     # 上滑新视频之后给2s等待加载新视频
-    time.sleep(2)

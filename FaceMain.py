@@ -3,7 +3,10 @@ from GetDouYinImg import *
 
 
 if __name__ == '__main__':
-    token="24.0157b70757727316d7f56f5eb8c1bfbe.2592000.1526359908.282335-11097784"
+
+    # client_id 为官网获取的AK， client_secret 为官网获取的SK
+    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=【官网获取的AK】&client_secret=【官网获取的SK】'
+    token = get_token(host)
     i = 1
     while(1):
         print("------------------第" + str(i) + "个视频------------------")
