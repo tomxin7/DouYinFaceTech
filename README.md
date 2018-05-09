@@ -2,7 +2,7 @@
 <img src="https://github.com/tomxin7/DouYinFaceTech/blob/master/banner1.png?raw=true" alt="Material Render Phone">
 </p>
 
-<h1 align="center"><a href="http://tomxin.cn" target="_blank">Tomxin7 </a></h1>
+<h1 align="center"><a href="http://blog.tomxin.cn" target="_blank">Tomxin7 </a></h1>
 
 > Simple, Interesting | 简单，有趣
 
