@@ -18,3 +18,6 @@ if __name__ == '__main__':
         # 得到的数据进行分析
         face_info_analysis(face_dict)
         i += 1
+
+        
+        
